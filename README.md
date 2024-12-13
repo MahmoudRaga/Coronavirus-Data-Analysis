@@ -1,5 +1,5 @@
 # Coronavirus Data Analysis Dashboard
-![](https://github.com/MahmoudRaga/Coronavirus-Data-Analysis/edit/main/Picture3.png)
+![](https://github.com/MahmoudRaga/Coronavirus-Data-Analysis/blob/main/Picture3.png)
 
 ## Overview
 
